@@ -1,0 +1,289 @@
+State/UT,City,Year,Crime_Type,Victims_Male,Victims_Female,Total_Cases
+Maharashtra,Mumbai,2021,Theft,729,495,1224
+Maharashtra,Mumbai,2021,Assault,381,288,669
+Maharashtra,Mumbai,2021,Kidnapping,126,148,274
+Maharashtra,Mumbai,2021,Rape,136,83,219
+Maharashtra,Mumbai,2021,Murder,64,77,141
+Maharashtra,Mumbai,2021,Cyber Crime,285,159,444
+Maharashtra,Mumbai,2022,Theft,542,573,1115
+Maharashtra,Mumbai,2022,Assault,378,400,778
+Maharashtra,Mumbai,2022,Kidnapping,166,144,310
+Maharashtra,Mumbai,2022,Rape,86,85,171
+Maharashtra,Mumbai,2022,Murder,51,50,101
+Maharashtra,Mumbai,2022,Cyber Crime,229,210,439
+Maharashtra,Mumbai,2023,Theft,753,784,1537
+Maharashtra,Mumbai,2023,Assault,403,327,730
+Maharashtra,Mumbai,2023,Kidnapping,165,124,289
+Maharashtra,Mumbai,2023,Rape,123,133,256
+Maharashtra,Mumbai,2023,Murder,66,48,114
+Maharashtra,Mumbai,2023,Cyber Crime,226,195,421
+Maharashtra,Pune,2021,Theft,259,309,568
+Maharashtra,Pune,2021,Assault,181,106,287
+Maharashtra,Pune,2021,Kidnapping,81,79,160
+Maharashtra,Pune,2021,Rape,51,42,93
+Maharashtra,Pune,2021,Murder,28,17,45
+Maharashtra,Pune,2021,Cyber Crime,124,81,205
+Maharashtra,Pune,2022,Theft,311,355,666
+Maharashtra,Pune,2022,Assault,180,189,369
+Maharashtra,Pune,2022,Kidnapping,77,70,147
+Maharashtra,Pune,2022,Rape,57,57,114
+Maharashtra,Pune,2022,Murder,27,28,55
+Maharashtra,Pune,2022,Cyber Crime,135,108,243
+Maharashtra,Pune,2023,Theft,306,354,660
+Maharashtra,Pune,2023,Assault,230,126,356
+Maharashtra,Pune,2023,Kidnapping,63,78,141
+Maharashtra,Pune,2023,Rape,83,54,137
+Maharashtra,Pune,2023,Murder,43,29,72
+Maharashtra,Pune,2023,Cyber Crime,116,135,251
+Maharashtra,Nagpur,2021,Theft,155,94,249
+Maharashtra,Nagpur,2021,Assault,93,70,163
+Maharashtra,Nagpur,2021,Kidnapping,33,33,66
+Maharashtra,Nagpur,2021,Rape,28,27,55
+Maharashtra,Nagpur,2021,Murder,19,12,31
+Maharashtra,Nagpur,2021,Cyber Crime,65,55,120
+Maharashtra,Nagpur,2022,Theft,190,126,316
+Maharashtra,Nagpur,2022,Assault,91,71,162
+Maharashtra,Nagpur,2022,Kidnapping,41,33,74
+Maharashtra,Nagpur,2022,Rape,39,35,74
+Maharashtra,Nagpur,2022,Murder,15,15,30
+Maharashtra,Nagpur,2022,Cyber Crime,55,45,100
+Maharashtra,Nagpur,2023,Theft,161,143,304
+Maharashtra,Nagpur,2023,Assault,119,80,199
+Maharashtra,Nagpur,2023,Kidnapping,43,26,69
+Maharashtra,Nagpur,2023,Rape,35,23,58
+Maharashtra,Nagpur,2023,Murder,21,14,35
+Maharashtra,Nagpur,2023,Cyber Crime,56,59,115
+Delhi,New Delhi,2021,Theft,883,562,1445
+Delhi,New Delhi,2021,Assault,616,363,979
+Delhi,New Delhi,2021,Kidnapping,157,161,318
+Delhi,New Delhi,2021,Rape,144,126,270
+Delhi,New Delhi,2021,Murder,66,82,148
+Delhi,New Delhi,2021,Cyber Crime,286,232,518
+Delhi,New Delhi,2022,Theft,559,622,1181
+Delhi,New Delhi,2022,Assault,436,407,843
+Delhi,New Delhi,2022,Kidnapping,202,163,365
+Delhi,New Delhi,2022,Rape,187,131,318
+Delhi,New Delhi,2022,Murder,99,56,155
+Delhi,New Delhi,2022,Cyber Crime,259,260,519
+Delhi,New Delhi,2023,Theft,568,553,1121
+Delhi,New Delhi,2023,Assault,430,511,941
+Delhi,New Delhi,2023,Kidnapping,182,215,397
+Delhi,New Delhi,2023,Rape,217,214,431
+Delhi,New Delhi,2023,Murder,72,80,152
+Delhi,New Delhi,2023,Cyber Crime,315,261,576
+Karnataka,Bengaluru,2021,Theft,498,503,1001
+Karnataka,Bengaluru,2021,Assault,339,231,570
+Karnataka,Bengaluru,2021,Kidnapping,148,110,258
+Karnataka,Bengaluru,2021,Rape,75,60,135
+Karnataka,Bengaluru,2021,Murder,32,40,72
+Karnataka,Bengaluru,2021,Cyber Crime,155,118,273
+Karnataka,Bengaluru,2022,Theft,399,291,690
+Karnataka,Bengaluru,2022,Assault,264,281,545
+Karnataka,Bengaluru,2022,Kidnapping,123,70,193
+Karnataka,Bengaluru,2022,Rape,105,116,221
+Karnataka,Bengaluru,2022,Murder,50,29,79
+Karnataka,Bengaluru,2022,Cyber Crime,187,112,299
+Karnataka,Bengaluru,2023,Theft,650,410,1060
+Karnataka,Bengaluru,2023,Assault,259,203,462
+Karnataka,Bengaluru,2023,Kidnapping,83,96,179
+Karnataka,Bengaluru,2023,Rape,122,72,194
+Karnataka,Bengaluru,2023,Murder,50,48,98
+Karnataka,Bengaluru,2023,Cyber Crime,191,178,369
+Karnataka,Mysuru,2021,Theft,95,58,153
+Karnataka,Mysuru,2021,Assault,53,36,89
+Karnataka,Mysuru,2021,Kidnapping,14,17,31
+Karnataka,Mysuru,2021,Rape,18,11,29
+Karnataka,Mysuru,2021,Murder,6,8,14
+Karnataka,Mysuru,2021,Cyber Crime,21,23,44
+Karnataka,Mysuru,2022,Theft,110,81,191
+Karnataka,Mysuru,2022,Assault,47,49,96
+Karnataka,Mysuru,2022,Kidnapping,16,16,32
+Karnataka,Mysuru,2022,Rape,19,14,33
+Karnataka,Mysuru,2022,Murder,9,8,17
+Karnataka,Mysuru,2022,Cyber Crime,31,24,55
+Karnataka,Mysuru,2023,Theft,75,76,151
+Karnataka,Mysuru,2023,Assault,41,42,83
+Karnataka,Mysuru,2023,Kidnapping,23,15,38
+Karnataka,Mysuru,2023,Rape,19,14,33
+Karnataka,Mysuru,2023,Murder,8,7,15
+Karnataka,Mysuru,2023,Cyber Crime,36,31,67
+Gujarat,Ahmedabad,2021,Theft,367,360,727
+Gujarat,Ahmedabad,2021,Assault,157,190,347
+Gujarat,Ahmedabad,2021,Kidnapping,88,51,139
+Gujarat,Ahmedabad,2021,Rape,90,52,142
+Gujarat,Ahmedabad,2021,Murder,28,36,64
+Gujarat,Ahmedabad,2021,Cyber Crime,163,94,257
+Gujarat,Ahmedabad,2022,Theft,481,268,749
+Gujarat,Ahmedabad,2022,Assault,257,158,415
+Gujarat,Ahmedabad,2022,Kidnapping,94,58,152
+Gujarat,Ahmedabad,2022,Rape,55,53,108
+Gujarat,Ahmedabad,2022,Murder,45,27,72
+Gujarat,Ahmedabad,2022,Cyber Crime,117,82,199
+Gujarat,Ahmedabad,2023,Theft,365,272,637
+Gujarat,Ahmedabad,2023,Assault,292,159,451
+Gujarat,Ahmedabad,2023,Kidnapping,115,70,185
+Gujarat,Ahmedabad,2023,Rape,72,49,121
+Gujarat,Ahmedabad,2023,Murder,44,41,85
+Gujarat,Ahmedabad,2023,Cyber Crime,151,146,297
+Gujarat,Surat,2021,Theft,318,193,511
+Gujarat,Surat,2021,Assault,193,113,306
+Gujarat,Surat,2021,Kidnapping,77,50,127
+Gujarat,Surat,2021,Rape,86,63,149
+Gujarat,Surat,2021,Murder,33,21,54
+Gujarat,Surat,2021,Cyber Crime,94,88,182
+Gujarat,Surat,2022,Theft,250,192,442
+Gujarat,Surat,2022,Assault,132,157,289
+Gujarat,Surat,2022,Kidnapping,85,83,168
+Gujarat,Surat,2022,Rape,40,31,71
+Gujarat,Surat,2022,Murder,21,25,46
+Gujarat,Surat,2022,Cyber Crime,112,91,203
+Gujarat,Surat,2023,Theft,268,200,468
+Gujarat,Surat,2023,Assault,162,185,347
+Gujarat,Surat,2023,Kidnapping,73,59,132
+Gujarat,Surat,2023,Rape,54,40,94
+Gujarat,Surat,2023,Murder,21,15,36
+Gujarat,Surat,2023,Cyber Crime,94,94,188
+Gujarat,Vadodara,2021,Theft,95,114,209
+Gujarat,Vadodara,2021,Assault,89,51,140
+Gujarat,Vadodara,2021,Kidnapping,33,30,63
+Gujarat,Vadodara,2021,Rape,25,28,53
+Gujarat,Vadodara,2021,Murder,12,10,22
+Gujarat,Vadodara,2021,Cyber Crime,43,31,74
+Gujarat,Vadodara,2022,Theft,129,73,202
+Gujarat,Vadodara,2022,Assault,101,69,170
+Gujarat,Vadodara,2022,Kidnapping,43,39,82
+Gujarat,Vadodara,2022,Rape,28,29,57
+Gujarat,Vadodara,2022,Murder,13,16,29
+Gujarat,Vadodara,2022,Cyber Crime,36,42,78
+Gujarat,Vadodara,2023,Theft,152,127,279
+Gujarat,Vadodara,2023,Assault,82,93,175
+Gujarat,Vadodara,2023,Kidnapping,15,18,33
+Gujarat,Vadodara,2023,Rape,23,21,44
+Gujarat,Vadodara,2023,Murder,18,14,32
+Gujarat,Vadodara,2023,Cyber Crime,33,39,72
+Tamil Nadu,Chennai,2021,Theft,508,416,924
+Tamil Nadu,Chennai,2021,Assault,221,136,357
+Tamil Nadu,Chennai,2021,Kidnapping,75,87,162
+Tamil Nadu,Chennai,2021,Rape,93,69,162
+Tamil Nadu,Chennai,2021,Murder,48,28,76
+Tamil Nadu,Chennai,2021,Cyber Crime,141,109,250
+Tamil Nadu,Chennai,2022,Theft,536,454,990
+Tamil Nadu,Chennai,2022,Assault,218,172,390
+Tamil Nadu,Chennai,2022,Kidnapping,125,70,195
+Tamil Nadu,Chennai,2022,Rape,109,65,174
+Tamil Nadu,Chennai,2022,Murder,38,45,83
+Tamil Nadu,Chennai,2022,Cyber Crime,129,124,253
+Tamil Nadu,Chennai,2023,Theft,362,403,765
+Tamil Nadu,Chennai,2023,Assault,334,234,568
+Tamil Nadu,Chennai,2023,Kidnapping,142,96,238
+Tamil Nadu,Chennai,2023,Rape,106,69,175
+Tamil Nadu,Chennai,2023,Murder,43,30,73
+Tamil Nadu,Chennai,2023,Cyber Crime,164,105,269
+Tamil Nadu,Coimbatore,2021,Theft,99,90,189
+Tamil Nadu,Coimbatore,2021,Assault,70,46,116
+Tamil Nadu,Coimbatore,2021,Kidnapping,31,20,51
+Tamil Nadu,Coimbatore,2021,Rape,19,17,36
+Tamil Nadu,Coimbatore,2021,Murder,9,12,21
+Tamil Nadu,Coimbatore,2021,Cyber Crime,46,28,74
+Tamil Nadu,Coimbatore,2022,Theft,122,117,239
+Tamil Nadu,Coimbatore,2022,Assault,75,45,120
+Tamil Nadu,Coimbatore,2022,Kidnapping,33,19,52
+Tamil Nadu,Coimbatore,2022,Rape,22,17,39
+Tamil Nadu,Coimbatore,2022,Murder,8,9,17
+Tamil Nadu,Coimbatore,2022,Cyber Crime,46,45,91
+Tamil Nadu,Coimbatore,2023,Theft,149,97,246
+Tamil Nadu,Coimbatore,2023,Assault,85,55,140
+Tamil Nadu,Coimbatore,2023,Kidnapping,23,29,52
+Tamil Nadu,Coimbatore,2023,Rape,20,16,36
+Tamil Nadu,Coimbatore,2023,Murder,12,12,24
+Tamil Nadu,Coimbatore,2023,Cyber Crime,33,38,71
+Telangana,Hyderabad,2021,Theft,491,366,857
+Telangana,Hyderabad,2021,Assault,208,235,443
+Telangana,Hyderabad,2021,Kidnapping,97,112,209
+Telangana,Hyderabad,2021,Rape,91,58,149
+Telangana,Hyderabad,2021,Murder,35,40,75
+Telangana,Hyderabad,2021,Cyber Crime,189,103,292
+Telangana,Hyderabad,2022,Theft,407,258,665
+Telangana,Hyderabad,2022,Assault,257,145,402
+Telangana,Hyderabad,2022,Kidnapping,114,75,189
+Telangana,Hyderabad,2022,Rape,92,72,164
+Telangana,Hyderabad,2022,Murder,44,51,95
+Telangana,Hyderabad,2022,Cyber Crime,159,131,290
+Telangana,Hyderabad,2023,Theft,410,480,890
+Telangana,Hyderabad,2023,Assault,242,270,512
+Telangana,Hyderabad,2023,Kidnapping,139,94,233
+Telangana,Hyderabad,2023,Rape,88,68,156
+Telangana,Hyderabad,2023,Murder,44,43,87
+Telangana,Hyderabad,2023,Cyber Crime,206,125,331
+Rajasthan,Jaipur,2021,Theft,182,210,392
+Rajasthan,Jaipur,2021,Assault,127,101,228
+Rajasthan,Jaipur,2021,Kidnapping,54,41,95
+Rajasthan,Jaipur,2021,Rape,47,34,81
+Rajasthan,Jaipur,2021,Murder,28,22,50
+Rajasthan,Jaipur,2021,Cyber Crime,73,44,117
+Rajasthan,Jaipur,2022,Theft,268,263,531
+Rajasthan,Jaipur,2022,Assault,102,108,210
+Rajasthan,Jaipur,2022,Kidnapping,38,30,68
+Rajasthan,Jaipur,2022,Rape,33,40,73
+Rajasthan,Jaipur,2022,Murder,21,21,42
+Rajasthan,Jaipur,2022,Cyber Crime,109,70,179
+Rajasthan,Jaipur,2023,Theft,229,134,363
+Rajasthan,Jaipur,2023,Assault,165,105,270
+Rajasthan,Jaipur,2023,Kidnapping,53,31,84
+Rajasthan,Jaipur,2023,Rape,66,41,107
+Rajasthan,Jaipur,2023,Murder,31,18,49
+Rajasthan,Jaipur,2023,Cyber Crime,65,71,136
+Rajasthan,Udaipur,2021,Theft,54,30,84
+Rajasthan,Udaipur,2021,Assault,50,32,82
+Rajasthan,Udaipur,2021,Kidnapping,14,14,28
+Rajasthan,Udaipur,2021,Rape,13,14,27
+Rajasthan,Udaipur,2021,Murder,6,5,11
+Rajasthan,Udaipur,2021,Cyber Crime,25,15,40
+Rajasthan,Udaipur,2022,Theft,59,52,111
+Rajasthan,Udaipur,2022,Assault,37,41,78
+Rajasthan,Udaipur,2022,Kidnapping,14,16,30
+Rajasthan,Udaipur,2022,Rape,14,11,25
+Rajasthan,Udaipur,2022,Murder,4,5,9
+Rajasthan,Udaipur,2022,Cyber Crime,29,21,50
+Rajasthan,Udaipur,2023,Theft,85,70,155
+Rajasthan,Udaipur,2023,Assault,47,29,76
+Rajasthan,Udaipur,2023,Kidnapping,25,16,41
+Rajasthan,Udaipur,2023,Rape,16,15,31
+Rajasthan,Udaipur,2023,Murder,7,6,13
+Rajasthan,Udaipur,2023,Cyber Crime,26,27,53
+West Bengal,Kolkata,2021,Theft,523,467,990
+West Bengal,Kolkata,2021,Assault,202,175,377
+West Bengal,Kolkata,2021,Kidnapping,113,92,205
+West Bengal,Kolkata,2021,Rape,114,75,189
+West Bengal,Kolkata,2021,Murder,65,41,106
+West Bengal,Kolkata,2021,Cyber Crime,151,86,237
+West Bengal,Kolkata,2022,Theft,363,307,670
+West Bengal,Kolkata,2022,Assault,345,190,535
+West Bengal,Kolkata,2022,Kidnapping,89,66,155
+West Bengal,Kolkata,2022,Rape,88,89,177
+West Bengal,Kolkata,2022,Murder,45,49,94
+West Bengal,Kolkata,2022,Cyber Crime,140,130,270
+West Bengal,Kolkata,2023,Theft,546,390,936
+West Bengal,Kolkata,2023,Assault,313,335,648
+West Bengal,Kolkata,2023,Kidnapping,105,112,217
+West Bengal,Kolkata,2023,Rape,77,89,166
+West Bengal,Kolkata,2023,Murder,45,47,92
+West Bengal,Kolkata,2023,Cyber Crime,145,134,279
+West Bengal,Howrah,2021,Theft,140,167,307
+West Bengal,Howrah,2021,Assault,87,56,143
+West Bengal,Howrah,2021,Kidnapping,33,20,53
+West Bengal,Howrah,2021,Rape,31,18,49
+West Bengal,Howrah,2021,Murder,14,9,23
+West Bengal,Howrah,2021,Cyber Crime,47,33,80
+West Bengal,Howrah,2022,Theft,120,110,230
+West Bengal,Howrah,2022,Assault,74,63,137
+West Bengal,Howrah,2022,Kidnapping,26,22,48
+West Bengal,Howrah,2022,Rape,35,25,60
+West Bengal,Howrah,2022,Murder,14,13,27
+West Bengal,Howrah,2022,Cyber Crime,50,41,91
+West Bengal,Howrah,2023,Theft,143,114,257
+West Bengal,Howrah,2023,Assault,66,68,134
+West Bengal,Howrah,2023,Kidnapping,26,32,58
+West Bengal,Howrah,2023,Rape,21,20,41
+West Bengal,Howrah,2023,Murder,10,13,23
+West Bengal,Howrah,2023,Cyber Crime,47,29,76
